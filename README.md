@@ -216,8 +216,8 @@ Product::class      → hasMany(ProductReview::class)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/username/sid-terpadu.git
-cd sid-terpadu
+git clone [https://github.com/username/sid-terpadu.git](https://github.com/alenslhi/rvps-sid)
+cd rvps-sid
 
 # 2. Install dependensi PHP
 composer install
@@ -235,7 +235,7 @@ php artisan key:generate
 # DB_CONNECTION=mysql
 # DB_HOST=127.0.0.1
 # DB_PORT=3306
-# DB_DATABASE=sid_terpadu
+# DB_DATABASE=rvps-sid
 # DB_USERNAME=root
 # DB_PASSWORD=
 
