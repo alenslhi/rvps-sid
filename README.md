@@ -216,7 +216,7 @@ Product::class      → hasMany(ProductReview::class)
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/username/sid-terpadu.git](https://github.com/alenslhi/rvps-sid)
+git clone https://github.com/alenslhi/rvps-sid.git
 cd rvps-sid
 
 # 2. Install dependensi PHP
